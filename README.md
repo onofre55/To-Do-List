@@ -1,7 +1,6 @@
 # To-Do List
 
-A to-do list app built with HTML, CSS, and JavaScript. Users can add, check and uncheck, and delete tasks, which are saved automatically in the browser using local storage.  
-The layout adapts to different screen sizes.
+A to-do list app built with HTML, CSS, and JavaScript. Users can add, check and uncheck, and delete tasks, which are saved automatically in the browser using local storage. The layout adapts to different screen sizes.
 
 ## What I Reinforced
 
